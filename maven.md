@@ -1,4 +1,4 @@
-- yum list | grep maven
+- yum list | grep ^maven
 - yum -y install maven
 - mvn --version
   
