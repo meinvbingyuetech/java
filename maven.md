@@ -1,3 +1,8 @@
+- yum list | grep maven
+- yum -y install maven
+- mvn --version
+  
+---
 
 ## 下载
 - http://maven.apache.org/download.cgi
