@@ -6,7 +6,7 @@
 ## 解压maven到/usr/local目录下
 - tar -zvxf apache-maven-3.5.0-bin.tar.gz -C /usr/local/
 
-## 入环境变量
+## 加入环境变量
 - vim /etc/profile
 
 ```
